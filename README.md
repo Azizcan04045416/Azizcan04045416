@@ -1,5 +1,5 @@
 ![MasterHead](https://imageio.forbes.com/specials-images/imageserve/647994d97ff0e466a60e1090/The-15-Biggest-Risks-Of-Artificial-Intelligence/960x0.jpg?format=jpg&width=960)
-<h1 align="center">I'm freelancer SystemSupport Azizcan</h1>
+<h1 align="center">I'm freelancer System Artificial intelligence</h1>
 <h3 align="center">I have a basic knowledge of artificial intelligence.</h3>
 
 <p align="left"> <a href="https://twitter.com/azizcan04045416" target="blank"><img src="https://img.shields.io/twitter/follow/azizcan04045416?logo=twitter&style=for-the-badge" alt="azizcan04045416" /></a> </p>
